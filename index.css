@@ -1,0 +1,17 @@
+body,
+nav {
+  background-color: #221f1f;
+}
+
+h2,
+h4,
+i {
+  color: #f5f5f1;
+}
+#kids {
+  color: #f5f5f1;
+  font-size: 0.8em;
+}
+footer {
+  color: #838383;
+}
